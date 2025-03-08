@@ -6,3 +6,18 @@ This study evaluates the performance of three neural network architectures—Sin
 
 ![CNN architecture(Simple Implementation)](https://github.com/S-Mehran/Implementation-of-Single-Layer-Multilayer-Perceptron-and-Convolutional-Neural-Network-from-Scratch/blob/c742d58d14016d1b74cfb0d615627de2bd9924df/CNN%20simple%20architecture.png)
 
+<figure>
+    <img src="https://github.com/S-Mehran/Implementation-of-Single-Layer-Multilayer-Perceptron-and-Convolutional-Neural-Network-from-Scratch/blob/5166a1d50a2727e342cc33c545f09e490a85cbec/Multilayer%20Perceptron%20Architecture.png">
+    <figcaption>Figure 1: Multilayer Perceptron Architecture</figcaption>
+</figure>
+
+<figure>
+    <img src="https://github.com/S-Mehran/Implementation-of-Single-Layer-Multilayer-Perceptron-and-Convolutional-Neural-Network-from-Scratch/blob/c742d58d14016d1b74cfb0d615627de2bd9924df/CNN%20simple%20architecture.png">
+    <figcaption>Figure 2: Simple Convolutional Neural Network Architecture</figcaption>
+</figure>
+
+
+<figure>
+    <img src="https://github.com/S-Mehran/Implementation-of-Single-Layer-Multilayer-Perceptron-and-Convolutional-Neural-Network-from-Scratch/blob/d74e97cfc75796831b090b2eac38e402dfb994b2/Results.png">
+    <figcaption>Figure 3: Results on Different Datasets</figcaption>
+</figure>
